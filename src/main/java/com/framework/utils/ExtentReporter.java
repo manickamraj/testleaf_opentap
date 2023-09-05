@@ -47,7 +47,7 @@ public abstract class ExtentReporter extends DriverInstance {
 		htmlReporter.config().setTestViewChartLocation(ChartLocation.BOTTOM);
 		htmlReporter.config().setChartVisibilityOnOpen(!true);
 		htmlReporter.config().setTheme(Theme.DARK);
-		htmlReporter.config().setDocumentTitle("Leaftaps");
+		htmlReporter.config().setDocumentTitle("Leaftaps-manickam");
 		htmlReporter.config().setEncoding("utf-8");
 		htmlReporter.config().setReportName("Leaftaps-SeleniumReport");
 		htmlReporter.setAppendExisting(true);
